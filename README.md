@@ -1,3 +1,0 @@
-# SimpleHungerGames
-
-Hunger Games Plugin
