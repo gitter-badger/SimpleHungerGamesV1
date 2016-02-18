@@ -1,3 +1,3 @@
 # SimpleHungerGames
 
-Hunger Ganes Plugin
+Hunger Games Plugin
