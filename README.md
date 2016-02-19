@@ -1,6 +1,8 @@
 # SurvivalGames
 ======
 
+[![Join the chat at https://gitter.im/larryTheCoder/SimpleHungerGamesV1](https://badges.gitter.im/larryTheCoder/SimpleHungerGamesV1.svg)](https://gitter.im/larryTheCoder/SimpleHungerGamesV1?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 
 </br>
